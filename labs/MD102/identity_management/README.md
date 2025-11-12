@@ -63,3 +63,9 @@
 
 
 #résultat
+
+
+
+
+
+![](./images/new_groups.png)
